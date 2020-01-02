@@ -222,7 +222,6 @@ int main(void)
          }
 
          system("TicTacToe.exe");
-         break;
       }
       else if(ch == 'N' || ch == 'n')
       {
